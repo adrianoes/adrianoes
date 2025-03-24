@@ -35,6 +35,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianoes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false" style="width: 48%; height: auto;" alt="languages graph" />
 </div>
 
+###
+###
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianoes.adrianoes&left_color=red&right_color=green" />
+</div>
+
+
+###
+
 
 
 
