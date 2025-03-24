@@ -31,8 +31,8 @@
 # Stats:
 
 <div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 1200px; background-color: #0d1117; padding: 10px; align-items: stretch;">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianoes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="135" alt="stats graph" style="width: auto; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianoes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="135" alt="languages graph" style="width: auto; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adrianoes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" style="width: auto; height: 150px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianoes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" style="width: auto; height: 150px;" />
 </div>
 
 
