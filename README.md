@@ -12,7 +12,6 @@
 ![Postman](https://img.shields.io/badge/Postman-F1E05A?style=for-the-badge&logo=postman&logoColor=black)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-3572A5?style=for-the-badge&logo=pytest&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-00C0B5?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-3572A5?style=for-the-badge&logo=selenium&logoColor=white)
 ![SikuliX](https://img.shields.io/badge/SikuliX-00C0B5?style=for-the-badge&logo=sikuli&logoColor=white)
 
@@ -20,6 +19,7 @@
 ![Gherkin](https://img.shields.io/badge/Gherkin-5B2063?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=javascript&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)  
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-00C0B5?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
@@ -35,7 +35,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-008080?style=for-the-badge&logo=overleaf&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 # Stats:
