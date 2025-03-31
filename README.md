@@ -7,6 +7,7 @@
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-F1E05A?style=for-the-badge&logo=hoppscotch&logoColor=black)
 ![JMeter](https://img.shields.io/badge/JMeter-B07219?style=for-the-badge&logo=jmeter&logoColor=white) 
 ![K6](https://img.shields.io/badge/K6-F1E05A?style=for-the-badge&logo=k6&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-3178C6?style=for-the-badge&logo=playwright&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-F1E05A?style=for-the-badge&logo=postman&logoColor=black)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3572A5?style=for-the-badge&logo=python&logoColor=white)
@@ -19,8 +20,9 @@
 ![Gherkin](https://img.shields.io/badge/Gherkin-5B2063?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)  
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-00C0B5?style=for-the-badge&logo=robot-framework&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-B07219?style=for-the-badge&logo=intellij-idea&logoColor=white)
