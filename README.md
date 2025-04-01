@@ -43,9 +43,9 @@
 # Stats:
 
 <div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 1200px; background-color: #0d1117; padding: 10px; align-items: stretch;">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianoes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="stats graph" style="width: 320px; height: 130px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianoes&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false" alt="languages graph" style="width: 320px; height: 130px;" />
-  <img src="https://streak-stats.demolab.com/?user=adrianoes&theme=dark&hide_total_contributions=true" style="width: 320px; height: 130px;" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adrianoes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianoes&locale=en&hide_title=true&layout=compact&langs_count=5&theme=dark&hide_border=false"/>
+  <img height="150em" src="https://streak-stats.demolab.com/?user=adrianoes&theme=dark&hide_total_contributions=true&card_width=250"/>
 </div>
 
 
