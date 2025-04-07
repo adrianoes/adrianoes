@@ -13,6 +13,7 @@
 ![Postman](https://img.shields.io/badge/Postman-F1E05A?style=for-the-badge&logo=postman&logoColor=black)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-3572A5?style=for-the-badge&logo=pytest&logoColor=white)
+![PyWinAuto](https://img.shields.io/badge/PyWinAuto-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-3572A5?style=for-the-badge&logo=selenium&logoColor=white)
 ![SikuliX](https://img.shields.io/badge/SikuliX-00C0B5?style=for-the-badge&logo=sikuli&logoColor=white)
 
