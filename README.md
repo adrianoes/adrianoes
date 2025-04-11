@@ -46,10 +46,9 @@
 # Stats:
 
 <div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 1200px; background-color: #0d1117; padding: 10px; align-items: stretch;">
-  <img height="225em" src="https://github-readme-stats.vercel.app/api?username=adrianoes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false"/>
-  <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianoes&locale=en&hide_title=true&layout=compact&langs_count=5&theme=github_dark&hide_border=false"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=adrianoes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianoes&locale=en&hide_title=true&layout=compact&langs_count=5&theme=github_dark&hide_border=false"/>
 </div>
-
 
 
 ###
