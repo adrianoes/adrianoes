@@ -7,6 +7,7 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-F1E05A?style=for-the-badge&logo=insomnia&logoColor=black)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-F1E05A?style=for-the-badge&logo=hoppscotch&logoColor=black)
 ![JMeter](https://img.shields.io/badge/JMeter-FFF6B2?style=for-the-badge&logo=jmeter&logoColor=black)
+![JUnit](https://img.shields.io/badge/JUnit-B07219?style=for-the-badge&logo=junit5&logoColor=white)
 ![K6](https://img.shields.io/badge/K6-F1E05A?style=for-the-badge&logo=k6&logoColor=black)
 ![Karate](https://img.shields.io/badge/Karate-23D96C?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -18,6 +19,7 @@
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-B07219?style=for-the-badge&logo=rest-assured&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-3572A5?style=for-the-badge&logo=selenium&logoColor=white)
 ![SikuliX](https://img.shields.io/badge/SikuliX-00C0B5?style=for-the-badge&logo=sikuli&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-B07219?style=for-the-badge&logo=testng&logoColor=white)
 
 ![Batchfile](https://img.shields.io/badge/Batchfile-C1F12E?style=for-the-badge&logo=box&logoColor=black)
 ![Gherkin](https://img.shields.io/badge/Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
