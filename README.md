@@ -4,6 +4,7 @@
 ![Bruno](https://img.shields.io/badge/Bruno-F1E05A?style=for-the-badge&logo=bruno&logoColor=black)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-F1E05A?style=for-the-badge&logo=cypress&logoColor=black)
+![Gatling](https://img.shields.io/badge/Gatling-B07219?style=for-the-badge&logo=gatling&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-F1E05A?style=for-the-badge&logo=insomnia&logoColor=black)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-F1E05A?style=for-the-badge&logo=hoppscotch&logoColor=black)
 ![JMeter](https://img.shields.io/badge/JMeter-FFF6B2?style=for-the-badge&logo=jmeter&logoColor=black)
