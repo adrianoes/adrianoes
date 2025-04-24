@@ -22,7 +22,7 @@
 ![SikuliX](https://img.shields.io/badge/SikuliX-00C0B5?style=for-the-badge&logo=sikuli&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-B07219?style=for-the-badge&logo=testng&logoColor=white)
 
-![Batchfile](https://img.shields.io/badge/Batchfile-C1F12E?style=for-the-badge&logo=box&logoColor=black)
+![Batch File](https://img.shields.io/badge/Batch_File-C1F12E?style=for-the-badge&logo=windows&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,6 +30,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-00C0B5?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnubash&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-181717?style=for-the-badge&logo=yaml&logoColor=white)
@@ -53,7 +54,7 @@
 
 <div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 1200px; background-color: #0d1117; padding: 10px; align-items: stretch;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adrianoes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianoes&locale=en&hide_title=true&layout=compact&langs_count=7&hide=XSLT,Shell&theme=github_dark&hide_border=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianoes&locale=en&hide_title=true&layout=compact&langs_count=8&hide=XSLT&theme=github_dark&hide_border=false"/>
   <img height="150em" src="https://streak-stats.demolab.com/?user=adrianoes&theme=github-dark-blue&hide_total_contributions=true&card_width=250"/>                                     
 </div>
 
