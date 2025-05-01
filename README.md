@@ -11,6 +11,7 @@
 ![JUnit](https://img.shields.io/badge/JUnit-B07219?style=for-the-badge&logo=junit5&logoColor=white)
 ![K6](https://img.shields.io/badge/K6-F1E05A?style=for-the-badge&logo=k6&logoColor=black)
 ![Karate](https://img.shields.io/badge/Karate-23D96C?style=for-the-badge&logoColor=white)
+![MITMProxy](https://img.shields.io/badge/MITMProxy-3572A5?style=for-the-badge&logo=mitmproxy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-3178C6?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F1E05A?style=for-the-badge&logo=postman&logoColor=black)
