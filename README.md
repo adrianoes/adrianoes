@@ -2,6 +2,7 @@
 
 ![Appium](https://img.shields.io/badge/Appium-00C0B5?style=for-the-badge&logo=appium&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-F1E05A?style=for-the-badge&logo=bruno&logoColor=black)
+![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-DFF9FB?style=for-the-badge&logo=Charles%20Proxy&logoColor=black)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-F1E05A?style=for-the-badge&logo=cypress&logoColor=black)
 ![Gatling](https://img.shields.io/badge/Gatling-B07219?style=for-the-badge&logo=gatling&logoColor=white)
