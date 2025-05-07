@@ -23,6 +23,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-3572A5?style=for-the-badge&logo=selenium&logoColor=white)
 ![SikuliX](https://img.shields.io/badge/SikuliX-00C0B5?style=for-the-badge&logo=sikuli&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-B07219?style=for-the-badge&logo=testng&logoColor=white)
+![Tosca](https://img.shields.io/badge/Tosca-004c97?style=for-the-badge&logo=tricentis&logoColor=white)
 
 ![Batch File](https://img.shields.io/badge/Batch_File-C1F12E?style=for-the-badge&logo=windows&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
@@ -55,9 +56,9 @@
 # Stats:
 
 <div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 1200px; background-color: #0d1117; padding: 10px; align-items: stretch;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adrianoes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianoes&locale=en&hide_title=true&layout=compact&langs_count=8&hide=XSLT&theme=github_dark&hide_border=false"/>
-  <img height="150em" src="https://streak-stats.demolab.com/?user=adrianoes&theme=github-dark-blue&hide_total_contributions=true&card_width=250"/>                                     
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=adrianoes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianoes&locale=en&hide_title=true&layout=compact&langs_count=8&hide=XSLT&theme=github_dark&hide_border=false"/>
+<!--   <img height="150em" src="https://streak-stats.demolab.com/?user=adrianoes&theme=github-dark-blue&hide_total_contributions=true&card_width=250"/>                                      -->
 </div>
 
 ###
