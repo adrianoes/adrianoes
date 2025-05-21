@@ -24,6 +24,7 @@
 ![SikuliX](https://img.shields.io/badge/SikuliX-00C0B5?style=for-the-badge&logo=sikuli&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-B07219?style=for-the-badge&logo=testng&logoColor=white)
 ![Tosca](https://img.shields.io/badge/Tosca-004c97?style=for-the-badge&logo=tricentis&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-F1E05A?style=for-the-badge&logo=webdriverio&logoColor=black)
 
 ![Batch File](https://img.shields.io/badge/Batch_File-C1F12E?style=for-the-badge&logo=windows&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
