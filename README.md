@@ -41,20 +41,7 @@
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-181717?style=for-the-badge&logo=yaml&logoColor=white)
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-B07219?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-306998?style=for-the-badge&logo=pycharm&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-00008B?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Azure](https://img.shields.io/badge/Azure-181717?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FFF6B2?style=for-the-badge&logo=amazon-aws&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-89E051?style=for-the-badge&logo=docker&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-B07219?style=for-the-badge&logo=jenkins&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-F1E05A?style=for-the-badge&logo=jira&logoColor=black)
-![Overleaf](https://img.shields.io/badge/Overleaf-008080?style=for-the-badge&logo=overleaf&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-F1E05A?style=for-the-badge&logo=trello&logoColor=black)
 
 
 # Stats:
