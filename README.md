@@ -2,7 +2,7 @@
 
 ![Appium](https://img.shields.io/badge/Appium-00C0B5?style=for-the-badge&logo=appium&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-F1E05A?style=for-the-badge&logo=bruno&logoColor=black)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-5B2063?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-F1E05A?style=for-the-badge&logo=cypress&logoColor=black)
 ![Espresso](https://img.shields.io/badge/Espresso-A97BFF?style=for-the-badge&logo=android&logoColor=white)
 ![Gatling](https://img.shields.io/badge/Gatling-B07219?style=for-the-badge&logo=gatling&logoColor=white)
@@ -12,7 +12,7 @@
 ![JMeter](https://img.shields.io/badge/JMeter-FFF6B2?style=for-the-badge&logo=jmeter&logoColor=black)
 ![JUnit](https://img.shields.io/badge/JUnit-B07219?style=for-the-badge&logo=junit5&logoColor=white)
 ![K6](https://img.shields.io/badge/K6-F1E05A?style=for-the-badge&logo=k6&logoColor=black)
-![Karate](https://img.shields.io/badge/Karate-23D96C?style=for-the-badge&logoColor=white)
+![Karate](https://img.shields.io/badge/Karate-5B2063?style=for-the-badge&logoColor=white)
 ![MITMProxy](https://img.shields.io/badge/MITMProxy-3572A5?style=for-the-badge&logo=mitmproxy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-E0F1F9?style=for-the-badge&logo=mysql&logoColor=black)
 ![Playwright](https://img.shields.io/badge/Playwright-00008B?style=for-the-badge&logo=playwright&logoColor=white)
@@ -27,7 +27,7 @@
 ![TestNG](https://img.shields.io/badge/TestNG-B07219?style=for-the-badge&logo=testng&logoColor=white)
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-F1E05A?style=for-the-badge&logo=webdriverio&logoColor=black)
 
-![Gherkin](https://img.shields.io/badge/Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-5B2063?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=javascript&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-FFF6B2?style=for-the-badge&logo=json&logoColor=black)
