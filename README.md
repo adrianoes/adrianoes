@@ -15,7 +15,7 @@
 ![Karate](https://img.shields.io/badge/Karate-5B2063?style=for-the-badge&logoColor=white)
 ![MITMProxy](https://img.shields.io/badge/MITMProxy-3572A5?style=for-the-badge&logo=mitmproxy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-E0F1F9?style=for-the-badge&logo=mysql&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-00008B?style=for-the-badge&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2b7489?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F1E05A?style=for-the-badge&logo=postman&logoColor=black)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-3572A5?style=for-the-badge&logo=pytest&logoColor=white)
@@ -35,7 +35,7 @@
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-00C0B5?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-E0F1F9?style=for-the-badge&logo=database&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-00008B?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2b7489?style=for-the-badge&logo=typescript&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
 
