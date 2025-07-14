@@ -22,6 +22,7 @@
 ![PyWinAuto](https://img.shields.io/badge/PyWinAuto-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-B07219?style=for-the-badge&logo=rest-assured&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-3572A5?style=for-the-badge&logo=selenium&logoColor=white)
+![SikuliX](https://img.shields.io/badge/SikuliX-00C0B5?style=for-the-badge)
 ![SoapUI](https://img.shields.io/badge/SoapUI-FF6600?style=for-the-badge&logo=testing&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-F1E05A?style=for-the-badge&logo=Supertest&logoColor=black)
 ![TestNG](https://img.shields.io/badge/TestNG-B07219?style=for-the-badge&logo=testng&logoColor=white)
