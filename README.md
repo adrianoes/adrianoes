@@ -45,16 +45,16 @@
 <div align="center" style="position: relative; width: 100%;">
 
   <!-- Gráfico (fundo - à direita) -->
-  <img align="right" height="158em"
+  <img align="center" 
        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianoes&theme=github_dark"
        style="position: relative; z-index: 1;" />
 
   <!-- Stats (à frente do gráfico) -->
-  <img height="158em"
+  <!-- <img height="158em"
        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianoes&theme=github_dark"
-       style="position: relative; z-index: 2;" />
+       style="position: relative; z-index: 2;" />-->
 
-  <br><br><br>
+  <br>
 
   <!-- Visitors (3 linhas abaixo) -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianoes.adrianoes&left_color=red&right_color=green" />
