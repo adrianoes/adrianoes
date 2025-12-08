@@ -45,12 +45,12 @@
 <div align="center" style="position: relative; width: 100%;">
 
   <!-- Gráfico (fundo - à direita) -->
-  <img align="right" height="158em"
+  <img align="right" height="159em"
        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianoes&theme=github_dark"
        style="position: relative; z-index: 1;" />
 
   <!-- Stats (à frente do gráfico) -->
-  <img height="158em"
+  <img height="159em"
        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianoes&theme=github_dark"
        style="position: relative; z-index: 2;" />
 
