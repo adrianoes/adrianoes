@@ -39,31 +39,23 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-2b7489?style=for-the-badge&logo=typescript&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
-
-
-
 # Stats:
 
 <div align="center" style="display: flex; justify-content: space-between; height: 200px; width: 100%; max-width: 1200px; background-color: #0d1117; padding: 10px; align-items: stretch;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adrianoes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianoes&locale=en&hide_title=true&layout=compact&langs_count=7&hide=XSLT&theme=github_dark&hide_border=false"/>
-<!-- <img height="150em" src="https://streak-stats.demolab.com/?user=adrianoes&theme=github-dark-blue&hide_total_contributions=true&card_width=250"/> -->
+  <img align="left" height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianoes&theme=github_dark"/>
+  <img align="right" height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianoes&theme=github_dark"/>
 </div>
-
-###
-###
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianoes.adrianoes&left_color=red&right_color=green" />
 </div>
 
 
-###
 
 
-
-
+  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adrianoes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianoes&locale=en&hide_title=true&layout=compact&langs_count=7&hide=XSLT&theme=github_dark&hide_border=false"/>
+<img height="150em" src="https://streak-stats.demolab.com/?user=adrianoes&theme=github-dark-blue&hide_total_contributions=true&card_width=250"/> -->
 
 
 
