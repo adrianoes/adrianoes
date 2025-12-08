@@ -42,8 +42,10 @@
 # Stats:
 
 <p align="center">
-  <img align="left" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianoes&theme=github_dark"/>
-  <img align="right" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianoes&theme=github_dark"/>
+  <img align="left" height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianoes&theme=github_dark"/>
+  <img align="right" height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianoes&theme=github_dark"/>
+</p>
+<p align="center">
 </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianoes.adrianoes&left_color=red&right_color=green" />
