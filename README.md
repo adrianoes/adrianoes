@@ -41,15 +41,26 @@
 
 # Stats:
 
-<p align="center">
-  <img align="left" height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianoes&theme=github_dark"/>
-  <img align="right" height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianoes&theme=github_dark"/>
-</p>
-<p align="center">
-</p>
-<p align="center">
+<!-- Stats (gráfico à direita, stats na frente e visitantes abaixo com espaçamento) -->
+<div align="center" style="position: relative; width: 100%;">
+
+  <!-- Gráfico (fundo - à direita) -->
+  <img align="right" height="160em"
+       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianoes&theme=github_dark"
+       style="position: relative; z-index: 1;" />
+
+  <!-- Stats (à frente do gráfico) -->
+  <img height="160em"
+       src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianoes&theme=github_dark"
+       style="position: relative; z-index: 2;" />
+
+  <br><br><br>
+
+  <!-- Visitors (3 linhas abaixo) -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianoes.adrianoes&left_color=red&right_color=green" />
-</p>
+
+</div>
+
 
 
 
