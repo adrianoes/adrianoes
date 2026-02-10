@@ -24,15 +24,15 @@
 
 # Stats:
 
-<!-- Stats (gráfico à direita, stats na frente e visitantes abaixo com espaçamento) -->
+
 <div align="center" style="position: relative; width: 100%;">
 
-  <!-- Gráfico (fundo - à direita) -->
+
   <img align="center" 
        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianoes&theme=github_dark"
-       style="position: relative; z-index: 1;" />
+       style="position: relative; z-index: 1; width: 100%" />
 
-  <!-- Stats (à frente do gráfico) -->
+
   <!-- <img height="158em"
        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianoes&theme=github_dark"
        style="position: relative; z-index: 2;" />-->
